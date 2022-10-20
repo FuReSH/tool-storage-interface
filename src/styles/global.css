@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    /*background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg)*/
+}
+
+h1 {
+    font-size: 6rem
+}
+
+h2 {
+    font-size: 3rem
+}
